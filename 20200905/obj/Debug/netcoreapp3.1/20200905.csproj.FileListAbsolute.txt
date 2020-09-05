@@ -1,0 +1,13 @@
+D:\git\CSharp\20200905\bin\Debug\netcoreapp3.1\20200905.exe
+D:\git\CSharp\20200905\bin\Debug\netcoreapp3.1\20200905.deps.json
+D:\git\CSharp\20200905\bin\Debug\netcoreapp3.1\20200905.runtimeconfig.json
+D:\git\CSharp\20200905\bin\Debug\netcoreapp3.1\20200905.runtimeconfig.dev.json
+D:\git\CSharp\20200905\bin\Debug\netcoreapp3.1\20200905.dll
+D:\git\CSharp\20200905\bin\Debug\netcoreapp3.1\20200905.pdb
+D:\git\CSharp\20200905\obj\Debug\netcoreapp3.1\20200905.csprojAssemblyReference.cache
+D:\git\CSharp\20200905\obj\Debug\netcoreapp3.1\20200905.AssemblyInfoInputs.cache
+D:\git\CSharp\20200905\obj\Debug\netcoreapp3.1\20200905.AssemblyInfo.cs
+D:\git\CSharp\20200905\obj\Debug\netcoreapp3.1\20200905.csproj.CoreCompileInputs.cache
+D:\git\CSharp\20200905\obj\Debug\netcoreapp3.1\20200905.dll
+D:\git\CSharp\20200905\obj\Debug\netcoreapp3.1\20200905.pdb
+D:\git\CSharp\20200905\obj\Debug\netcoreapp3.1\20200905.genruntimeconfig.cache
